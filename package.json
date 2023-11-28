@@ -1,7 +1,7 @@
 {
   "name": "NotesOnly-api",
   "version": "1.0.0",
-  "description": "API desenvolvida no programa Explorar da Rocketseat",
+  "description": "API desenvolvida para P2 Laboratório de Desenvolvimento de Aplicativos Híbridos",
   "main": "index.js",
   "engines": {
     "node": ">=18 <19"
@@ -14,7 +14,7 @@
     "migrate:prod": "knex migrate:latest --env production"
   },
   "keywords": [],
-  "author": "Pablo Alan de Freitas Cardoso",
+  "author": "Vanessa Christiano de Oliveira",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
